@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `JunaInfo`,
-    description: `Onko R-juna myöhässä`,
+    description: `Onko R-juna myöhässä? On.`,
     author: `@tristola`,
   },
   plugins: [
