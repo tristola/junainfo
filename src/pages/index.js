@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Onko aamun juna myöhässä" />
-    <h1>Onko aamun R-juna myöhässä</h1>
+    <h1>Onko aamun R-juna myöhässä?</h1>
     <p>On.</p>
   </Layout>
 )
