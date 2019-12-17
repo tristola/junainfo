@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `JunaInfo`,
-    description: `Onko R-juna myöhässä? On.`,
+    title: `Liputuspäivät 2020`,
+    description: `Liputuspäivät 2020`,
     author: `@tristola`,
   },
   plugins: [
